@@ -178,27 +178,27 @@ kbd.keycap.group.numbers: Números
 kbd.keycap.group.bigs: Tecles Grans
 kbd.keycap.group.all: Totes
 # Dynamic Light Effects
-dynamic.none: Estático
-dynamic.breath: Respiración
-dynamic.breath_grad: Respiración Gradual
-dynamic.rainbow: Arcoiris
+dynamic.none: Estàtic
+dynamic.breath: Respiració
+dynamic.breath_grad: Resperació gradual
+dynamic.rainbow: Arc de Sant Martí
 dynamic.trigger.poptang: Poptang reactiva
-dynamic.trigger.breath_single: Respiración individual
-dynamic.trigger.breath: Respiración reactiva
-dynamic.trigger.rainbow: Arcoiris reactivo
-dynamic.trigger.ripple: Onda reactiva
-dynamic.trigger.pulse: Pulso reactivo
-dynamic.trigger.star_fall: Lluvia de estrellas reactiva
-dynamic.auto.starry_sky: Cielo estrellado
+dynamic.trigger.breath_single: Respiració individual
+dynamic.trigger.breath: Respiració reactiva
+dynamic.trigger.rainbow: Arc de Sant Martí reactiu
+dynamic.trigger.ripple: Ona reactiva
+dynamic.trigger.pulse: Polse reactiu
+dynamic.trigger.star_fall: Pluja d'estels reactiva
+dynamic.auto.starry_sky: Cel estrellat
 dynamic.auto.comet: Cometa
-dynamic.auto.colorful: Colorido
-dynamic.auto.wave: Onda
-dynamic.auto.black_hole: Agujero negro
-dynamic.auto.vertical_rainbow: Arcoiris Vertical
-dynamic.auto.fountain: Fuente
-dynamic.auto.snake: Serpiente
-dynamic.auto.flame: Llama
-dynamic.auto.firework: Fuegos Artificiales
+dynamic.auto.colorful: Colorit
+dynamic.auto.wave: Ona
+dynamic.auto.black_hole: Forat negre
+dynamic.auto.vertical_rainbow: Arc de Sant Martí vertical
+dynamic.auto.fountain: Font
+dynamic.auto.snake: Serp
+dynamic.auto.flame: Flama
+dynamic.auto.firework: Focs articials
 # Default LED group
 intl.light.group.default: Por defecto
 intl.led.red: Rojo
