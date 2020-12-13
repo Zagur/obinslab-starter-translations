@@ -280,14 +280,14 @@ kbd.macro.code.value.move_up: Moure a munt
 kbd.macro.code.value.move_down: Moure a baix
 
 # Audio Visualization
-kbd.audio: Visualizacion de audio
-kbd.audio.describe: El teclado reacciona al sonido reproducido via el dispositivo de audio predeterminado
-kbd.audio.on: On
-kbd.audio.off: Off
-kbd.audio.light_type: Modo de Iluminación
-kbd.audio.light_type.pure: Color Puro
-kbd.audio.light_type.colorful: Colorido
-kbd.audio.required_led_firmware: Se Requiere la version {{version}} de Procesador de Iluminación o posterior.
+kbd.audio: Visualització de l'àudio
+kbd.audio.describe: El teclat reacciona al so repoduit via el dispositiu d'àudio per defecte
+kbd.audio.on: Actiu
+kbd.audio.off: Inactiu
+kbd.audio.light_type: Mode d'il·luminació
+kbd.audio.light_type.pure: Color pur
+kbd.audio.light_type.colorful: Colorit
+kbd.audio.required_led_firmware: Es requereix la versió del Processador d'Il·luminació {{version}} o posterior.
 
 # Other Messages
 msg.open_device_failed: No Se Pudo Abrir el Dispositivo
