@@ -172,11 +172,11 @@ kbd.led.color.default: Per defecte
 kbd.led.color.custom: Personalitzat
 kbd.led.color.custom.save: Desar color actual
 # Keycap Groups
-kbd.keycap.group.function_keys: Teclas de función
-kbd.keycap.group.alphabet: Letras
+kbd.keycap.group.function_keys: Tecles de funció
+kbd.keycap.group.alphabet: Lletres
 kbd.keycap.group.numbers: Números
-kbd.keycap.group.bigs: Teclas Grandes
-kbd.keycap.group.all: Todas
+kbd.keycap.group.bigs: Tecles Grans
+kbd.keycap.group.all: Totes
 # Dynamic Light Effects
 dynamic.none: Estático
 dynamic.breath: Respiración
