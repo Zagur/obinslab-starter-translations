@@ -155,22 +155,22 @@ kbd.firmware.upgrade.status.restart: Reiniciant teclat
 kbd.firmware.upgrade.status.success: El Microprogramari ha estat actualitzat amb èxit
 
 # Main Window, LEDs
-kbd.led: Iluminación
-kbd.led.effect.profiles: Grupo de Iluminación
+kbd.led: Il·luminació
+kbd.led.effect.profiles: Perfils d'il·luminació
 kbd.led.effect.profile.reset: Reiniciar
-kbd.led.effect.profile.delete.confirm_content: Quiere eliminar este efecto de iluminación?
-kbd.led.effect.profile: Lista de iluminaciones
-kbd.led.effect.profile.limit.annepro1_three: Máximo tres efectos de iluminación en un grupo en ANNE PRO 1
-kbd.led.effect.profile.limit.annepro2_sixteen: Máximo dieciseís efectos de iluminación en un grupo en ANNE PRO 2
-kbd.led.effect.mode: Efecto Dinámico
-kbd.led.effect.delete.confirm_content: Quiere eliminar esta iluminación?
-kbd.led.effect.preview: Previsualización
-kbd.led.effect.dynamic_colors.random: Aleatorio
-kbd.led.effect.dynamic_colors.no_empty: Por favor añada un color dinámico
-kbd.led.color.palette: Paleta de Colores
-kbd.led.color.default: Por Defecto
-kbd.led.color.custom: Personalizado
-kbd.led.color.custom.save: Guardar color actual
+kbd.led.effect.profile.delete.confirm_content: ¿Vols esborrar aquest perfil d'il·luminació?
+kbd.led.effect.profile: Detalls dels perfils
+kbd.led.effect.profile.limit.annepro1_three: Màxim 3 efectes d'il·luminació en un perfil a ANNE PRO 1
+kbd.led.effect.profile.limit.annepro2_sixteen: Màxim 16 efectes d'il·luminació en un perfil a ANNE PRO 2
+kbd.led.effect.mode: Mode d'il·luminació
+kbd.led.effect.delete.confirm_content: ¿Vols esborrar aquest efecte d'il·luminació?
+kbd.led.effect.preview: Previsualització
+kbd.led.effect.dynamic_colors.random: Aleatori
+kbd.led.effect.dynamic_colors.no_empty: Si us plau, afegeix un color dinàmic
+kbd.led.color.palette: Paleta de colors
+kbd.led.color.default: Per defecte
+kbd.led.color.custom: Personalitzat
+kbd.led.color.custom.save: Desar color actual
 # Keycap Groups
 kbd.keycap.group.function_keys: Teclas de función
 kbd.keycap.group.alphabet: Letras
