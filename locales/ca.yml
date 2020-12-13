@@ -64,35 +64,35 @@ feedback.support_email: "Correu electrònic de suport: "
 feedback.debug_log: Depuració del registre
 
 # Preference Window
-preferences.setting: Ajustes
+preferences.setting: Paràmetres
 preferences.setting.language: Idioma
 preferences.setting.theme: Tema
-preferences.setting.theme.dark: Oscuro
-preferences.setting.theme.light: Claro
+preferences.setting.theme.dark: Fosc
+preferences.setting.theme.light: Clar
 preferences.setting.theme.cyan: Cian
-preferences.setting.update_channel: Fuente de Actualizaciones
-preferences.setting.animation: Animación de Bienvenida
-preferences.setting.animation.on: Encendido
-preferences.setting.animation.off: Apagado
-preferences.setting.x_action: Comportamiento del Botón Cerrar
-preferences.setting.minimize_to_tray: Minimizar a la bandeja
-preferences.setting.quit_program: Cerrar Programa
-preferences.setting.auto_launch: Abrir al Inicio
+preferences.setting.update_channel: Font d'actualitzacions
+preferences.setting.animation: Animació de benvinguda
+preferences.setting.animation.on: Actiu
+preferences.setting.animation.off: Inactiu
+preferences.setting.x_action: Comportament del botó de tancar
+preferences.setting.minimize_to_tray: Minimitzar a la safata
+preferences.setting.quit_program: Tancar el programa
+preferences.setting.auto_launch: Obrir a l'inici
 preferences.setting.auto_launch.yes: Si
 preferences.setting.auto_launch.no: No
-preferences.update: Actualizar
+preferences.update: Actualitzar
 preferences.update.insider_preview: Programa Insider Preview
-preferences.update.check: Comprobar Nueva Versión
-preferences.update.check.failed: Por favor inténtelo de nuevo
-preferences.update.version.current: Versión Actual
-preferences.update.version.new: Nueva Versión
-preferences.update.version.no_new: No Hay Una Nueva Versión
-preferences.update.download: Descargar
-preferences.update.download.done: El Paquete de Actualización Ha Sido Descargado
-preferences.update.install_now: Instalar Ahora
-preferences.help: Ayuda
-preferences.help.user-manual: Manual del usuario
-preferences.about: Sobre Nosotros
+preferences.update.check: Comprovar nova versió
+preferences.update.check.failed: Si us plau, torni a intentar-ho
+preferences.update.version.current: Versió actual
+preferences.update.version.new: Nova versió
+preferences.update.version.no_new: No hi ha cap nova versió
+preferences.update.download: Descarregar
+preferences.update.download.done: El paquet d'actualització ha estat descarregat
+preferences.update.install_now: Instal·lar ara
+preferences.help: Ajuda
+preferences.help.user-manual: Manual d'usuari
+preferences.about: Quant a
 
 # Home Window
 home.welcome: Hola Mundo
