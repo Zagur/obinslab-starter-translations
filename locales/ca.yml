@@ -95,9 +95,9 @@ preferences.help.user-manual: Manual d'usuari
 preferences.about: Quant a
 
 # Home Window
-home.welcome: Hola Mundo
-home.please_connect_kbd_with_cable: Por favor Conecte su Dispositivo vía USB
-home.open_device_failed: No Se Pudo Abrir el Dispositivo
+home.welcome: Hola món
+home.please_connect_kbd_with_cable: Si us plau, connecti el seu dispositiu via USB
+home.open_device_failed: No s'ha pogut iniciar el seu dispositiu
 
 # Main Window, General
 kbd.general: General
