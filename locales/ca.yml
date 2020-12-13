@@ -261,23 +261,23 @@ intl.keymap.dvorak: Dvorak
 
 # Main Window, Macros
 kbd.macro: Macro
-kbd.macro.group: Grupo de Macros
-kbd.macro.group.delete.confirm_content: Quiere eliminar este Grupo de Macros?
-kbd.macro.add: Añadir Macro
-kbd.macro.please_add_macro_group: Por favor añada un grupo de macros
-kbd.macro.please_add_macro: Por favor añada una macro
-kbd.macro.delete.confirm_content: Quiere eliminar esta macro?
-kbd.macro.amount_limit.annepro2_sixteen: Se pueden agregar hasta 16 macros en ANNE PRO 2
-kbd.macro.amount_limit.annepro_eight: Se pueden agregar hasta ocho macros en ANNE PRO 1
-kbd.macro.code: Código Macro
-kbd.macro.code.rec: Grabar Macro
-kbd.macro.code.empty: Vaciar Código Macro
-kbd.macro.code.exceeded: Código Macro Excedido
-kbd.macro.code.missing_release_key: Falta un bloque de liberación de tecla
-kbd.macro.code.missing_press_key: Falta un bloque de presionado de tecla
-kbd.macro.code.value.insert_timer_block: Insertar bloque de tiempo
-kbd.macro.code.value.move_up: Mover Arriba
-kbd.macro.code.value.move_down: Mover Abajo
+kbd.macro.group: Grup de Macros
+kbd.macro.group.delete.confirm_content: ¿Vols esborrar aquest grup de Macros?
+kbd.macro.add: Afegir macro
+kbd.macro.please_add_macro_group: Si us plau, afegeix un grup de macros
+kbd.macro.please_add_macro: Si us plau afegeix una macro
+kbd.macro.delete.confirm_content: ¿Vols esborrar aquesta macro?
+kbd.macro.amount_limit.annepro2_sixteen: Es poden afegir fins a 16 macros a ANNE PRO 2
+kbd.macro.amount_limit.annepro_eight: Es poden afegir fins a 8 macros a ANNE PRO 1
+kbd.macro.code: Codi de la macro
+kbd.macro.code.rec: Enregistrar macro
+kbd.macro.code.empty: Buidar códi de la macro
+kbd.macro.code.exceeded: Códi de la macro excedit
+kbd.macro.code.missing_release_key: Falta un bloc de lliberació de tecla
+kbd.macro.code.missing_press_key: Falta un bloc de activació de tecla
+kbd.macro.code.value.insert_timer_block: Insereix un boc de temps
+kbd.macro.code.value.move_up: Moure a munt
+kbd.macro.code.value.move_down: Moure a baix
 
 # Audio Visualization
 kbd.audio: Visualizacion de audio
