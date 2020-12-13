@@ -125,34 +125,34 @@ kbd.general.bluetooth.bind: Vinculació Bluetooth
 kbd.general.bluetooth.clean_bind: Esborrar vincles
 
 # Main Window, Firmware
-kbd.firmware: Actualización de Firmware
-kbd.firmware.key: Procesador de Aplicación
-kbd.firmware.led: Procesador de Iluminación
-kbd.firmware.ble: Procesador de Bluetooth
-kbd.firmware.current_version: Versión Actual
-kbd.firmware.upgrade_source: Fuente de Actualizaciones
-kbd.firmware.latest: Última versión de Firmware
-kbd.firmware.archive: Archivo de versión de Firmware
-kbd.firmware.annepro1.download.firmware: Descargar Firmware
-kbd.firmware.annepro1.download.latest_firmware: Descargar el Último Firmware
-kbd.firmware.annepro1.download.dfu_tool: Descargar Herramienta DFU
-kbd.firmware.find_new_version: "Nueva versión de Firmware encontrada: "
-kbd.firmware.no_new_version: La versión de Firmware actual es la mas reciente
-kbd.firmware.upgrade.app_require: Se requiere ObinsKit en su versión v{{requiredVersion}} o posterior, la versión actual es v{{appVersion}}.
+kbd.firmware: Actualització del microprogramari
+kbd.firmware.key: Processador de l'Aplicació
+kbd.firmware.led: Processador de Il·luminació
+kbd.firmware.ble: Processador del Bluetooth
+kbd.firmware.current_version: Versió actual
+kbd.firmware.upgrade_source: Font d'actualitzacions
+kbd.firmware.latest: Última versió del microprogramari
+kbd.firmware.archive: Registre de canvis del Microprogramari
+kbd.firmware.annepro1.download.firmware: Descarregar microprogramari
+kbd.firmware.annepro1.download.latest_firmware: Descarregar l'últim microprogramari
+kbd.firmware.annepro1.download.dfu_tool: Descarregar Eina DFU
+kbd.firmware.find_new_version: "Nova versió del Microprogramari trobada: "
+kbd.firmware.no_new_version: La versió del microprogramari actual és la més recent
+kbd.firmware.upgrade.app_require: Es requereix ObinsKit a la seva versió v{{requiredVersion}} o posterior, la versió actual és v{{appVersion}}.
 kbd.firmware.upgrade.source.alpha: Alpha
-kbd.firmware.upgrade.source.latest: Lanzamiento
-kbd.firmware.upgrade_btn: Actualizar
-kbd.firmware.upgrade.title: Actualizar Firmware
-kbd.firmware.upgrade.content: Por favor no desconecte el cable USB durante la actualización
-kbd.firmware.upgrade.enter_iap_timeout: No se pudo entrar automaticamente en modo IAP, por favor entre en modo IAP manualmente (Mantenga pulsada la tecla ESC , a continuación enchufe el cable USB)
-kbd.firmware.upgrade.status.downloading: Decargando firmware
-kbd.firmware.upgrade.status.download_failed: La descarga del Firmware falló
-kbd.firmware.upgrade.status.entering_aip: Entrando en modo Actualización(About 6 seconds or less)
-kbd.firmware.upgrade.status.writing_key: Escribiendo datos en el procesador de aplicación
-kbd.firmware.upgrade.status.writing_led: Escribiendo datos en el procesador de iluminación
-kbd.firmware.upgrade.status.writing_ble: Escribiendo datos en el procesador de bluetooth
-kbd.firmware.upgrade.status.restart: Reiniciando teclado
-kbd.firmware.upgrade.status.success: Firmware actualizado con éxito
+kbd.firmware.upgrade.source.latest: Llançament
+kbd.firmware.upgrade_btn: Actualitzar
+kbd.firmware.upgrade.title: Actualitzar Microprogramari
+kbd.firmware.upgrade.content: Si us plau, no desconnecti el cable USB durant l'actualització
+kbd.firmware.upgrade.enter_iap_timeout: No s'ha pogut trobar automàticament el mode IAP, si us plau entri al mode IAP manualment (Mantingui polsada la tecla ESC i a continuació connecti el cable USB)
+kbd.firmware.upgrade.status.downloading: Descarregant microprogramari
+kbd.firmware.upgrade.status.download_failed: La descarrega del Microprogramari ha fallat
+kbd.firmware.upgrade.status.entering_aip: Entrant en mode d'Actualització (Aprox. 6 segons o menys)
+kbd.firmware.upgrade.status.writing_key: Escribint dades en el procesador de l'Aplicació
+kbd.firmware.upgrade.status.writing_led: Escribint dades en el procesador de Il·luminació
+kbd.firmware.upgrade.status.writing_ble: Escribint dades en el procesador de Bluetooth
+kbd.firmware.upgrade.status.restart: Reiniciant teclat
+kbd.firmware.upgrade.status.success: El Microprogramari ha estat actualitzat amb èxit
 
 # Main Window, LEDs
 kbd.led: Iluminación
