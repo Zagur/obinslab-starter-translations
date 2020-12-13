@@ -37,10 +37,10 @@ common.refresh: Actualitzar
 common.date: Data
 
 # Tray
-app.tray.show_window: Abrir ObinsKit
-app.tray.preferences: Preferencias
-app.tray.quit: Salir
-app.tray.still_running_here: ObinsKit Seguirá Abierto Aquí
+app.tray.show_window: Obrir ObinsKit
+app.tray.preferences: Preferències
+app.tray.quit: Sortir
+app.tray.still_running_here: ObinsKit romandrà obert
 
 # Manage Menu
 app.manage: Gestionar
