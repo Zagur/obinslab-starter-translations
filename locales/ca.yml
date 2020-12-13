@@ -290,8 +290,8 @@ kbd.audio.light_type.colorful: Colorit
 kbd.audio.required_led_firmware: Es requereix la versió del Processador d'Il·luminació {{version}} o posterior.
 
 # Other Messages
-msg.open_device_failed: No Se Pudo Abrir el Dispositivo
-msg.missing_required_data_field: Campo de datos necesario vacio
-msg.file_not_compatible_your_device: El archivo no es compatible con su dispositivo
-msg.crc_check_error: Error de suma CRC, por favor no edite el archivo exportado
-msg.json_data_invalid: Datos JSON invalidos
+msg.open_device_failed: No s'ha pogut obrir el dispositiu
+msg.missing_required_data_field: Falta el camp de dades
+msg.file_not_compatible_your_device: El fitxer no és compatible amb el se dispositiu
+msg.crc_check_error: Error en la suma CRC, si us plau, no editi el fitxer exportat
+msg.json_data_invalid: Dades JSON invàlides
