@@ -49,19 +49,19 @@ app.manage.device_list: Llista de dispositius
 app.manage.feedback: Comentaris
 
 # Feedback
-feedback: Valoración y Comentarios
-feedback.title: Valoración y Comentarios
-feedback.content: Contenido
-feedback.content.no_empty: Por favor introduzca contenido
-feedback.content.max_1000: "Máximo: 1,000 caracteres"
-feedback.email.label: Email
-feedback.email.placeholder: Por favor introduzca su email
-feedback.email.not_valid: Dirección de e-mail inválida
+feedback: Comentaris
+feedback.title: Comentaris
+feedback.content: Contingut
+feedback.content.no_empty: Si us plau, afegeix el teu comentari
+feedback.content.max_1000: "Màxim: 1000 caràcters"
+feedback.email.label: Correu electrònic
+feedback.email.placeholder: Si us plau, introduexi el seu correu electrònic
+feedback.email.not_valid: La direcció de correu electrònic no és vàlida
 feedback.submit: Enviar
-feedback.submit.error: Error de envio - Por favor intentelo de nuevo
-feedback.submit.success: Enviado con éxito - Click para cerrar
-feedback.support_email: "Email de Soporte: "
-feedback.debug_log: Registro de Depuración
+feedback.submit.error: Error en l'enviament. Si us plau provi de nou
+feedback.submit.success: Enviat amb èxit. Feu clic per tancar
+feedback.support_email: "Correu electrònic de suport: "
+feedback.debug_log: Depuració del registre
 
 # Preference Window
 preferences.setting: Ajustes
