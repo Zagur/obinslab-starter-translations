@@ -44,9 +44,9 @@ app.tray.still_running_here: ObinsKit romandrà obert
 
 # Manage Menu
 app.manage: Gestionar
-app.manage.preferences: Preferencias
-app.manage.device_list: Lista de Dispositivos
-app.manage.feedback: Valoración y Comentarios
+app.manage.preferences: Preferències
+app.manage.device_list: Llista de dispositius
+app.manage.feedback: Comentaris
 
 # Feedback
 feedback: Valoración y Comentarios
