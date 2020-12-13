@@ -200,22 +200,22 @@ dynamic.auto.snake: Serp
 dynamic.auto.flame: Flama
 dynamic.auto.firework: Focs articials
 # Default LED group
-intl.light.group.default: Por defecto
-intl.led.red: Rojo
-intl.led.yellow: Amarillo
-intl.led.green: Verde
+intl.light.group.default: Per defecte
+intl.led.red: Vermell
+intl.led.yellow: Groc
+intl.led.green: Verd
 intl.led.cyan: Cian
-intl.led.blue: Azul
-intl.led.purple: Morado
-intl.led.static.single: Estático individual
-intl.led.static.multi: Estático multiple
-intl.dynamic.breath: Respiración
-intl.dynamic.breath.grad: Respiración Gradual
+intl.led.blue: Blau
+intl.led.purple: Púrpura
+intl.led.static.single: Estàtic individual
+intl.led.static.multi: Estàtic multiple
+intl.dynamic.breath: Respiració
+intl.dynamic.breath.grad: Respiració gradual
 intl.dynamic.poptang: Poptang
-intl.dynamic.breath.rainbow: Arcoiris
-intl.dynamic.breath.single: Respiración individual
-intl.dynamic.trigger.breath: Respiración reactiva
-intl.dynamic.trigger.rainbow: Arcoiris reactivo
+intl.dynamic.breath.rainbow: Arc de Sant Martí
+intl.dynamic.breath.single: Respiració individual
+intl.dynamic.trigger.breath: Respiració reactiva
+intl.dynamic.trigger.rainbow: Arc de Sant Martí reactiu
 
 # Main Window, Layout
 kbd.layout: Distribución
