@@ -218,40 +218,40 @@ intl.dynamic.trigger.breath: Respiració reactiva
 intl.dynamic.trigger.rainbow: Arc de Sant Martí reactiu
 
 # Main Window, Layout
-kbd.layout: Distribución
-kbd.layout.reset.confirm_content: Quiere reiniciar a la distribución por defecto?
-kbd.layout.delete.confirm_content: Quiere eliminar esta distribución?
-kbd.layout.set_keycap_null: Vaciar
+kbd.layout: Distribució
+kbd.layout.reset.confirm_content: ¿Vol reiniciar la distribució per defecte?
+kbd.layout.delete.confirm_content: ¿Vols esborrar aquesta distribució?
+kbd.layout.set_keycap_null: Buidar
 # Sidebar titles
 kbd.keycode_group.annepro: ANNE PRO
 kbd.keycode_group.system: Sistema
-kbd.keycode_group.alphabet: Caracter
+kbd.keycode_group.alphabet: Cràcter
 kbd.keycode_group.number: Número
 kbd.keycode_group.modifier: Modificador
-kbd.keycode_group.arrow: Flecha
-kbd.keycode_group.function: Función
+kbd.keycode_group.arrow: Fletxa
+kbd.keycode_group.function: Funció
 kbd.keycode_group.media: Media
-kbd.keycode_group.keypad: Teclado
-kbd.keycode_group.other: Otros
+kbd.keycode_group.keypad: Teclat
+kbd.keycode_group.other: Altres
 # Key tooltips
-icon.left_gui: Win/Cmd Izquierdo
-icon.right_gui: Win/Cmd Derecho
+icon.left_gui: Win/Cmd esquerra
+icon.right_gui: Win/Cmd dret
 icon.mute: Silenciar
-icon.volume.up: Subir Volumen
-icon.volume.down: Bajar Volumen
-icon.bl.toggle: Interruptor iluminación
-icon.bl.color: Cambiar iluminación
-icon.bl.increase: Subir Brillo
-icon.bl.decrease: Bajar Brillo
-icon.bl.battery: Nivel de Batería
+icon.volume.up: Pujar volum
+icon.volume.down: Baixar volum
+icon.bl.toggle: Interruptor d'il·luminació
+icon.bl.color: Canviar il·luminació
+icon.bl.increase: Pujar brillantor
+icon.bl.decrease: Baixar brillantor
+icon.bl.battery: Nivell de bateria
 icon.ble.wl_1: Bluetooth 1
 icon.ble.wl_2: Bluetooth 2
 icon.ble.wl_3: Bluetooth 3
 icon.ble.wl_4: Bluetooth 4
-icon.fn.wheel: Volante de juegos
-icon.prev.track: Pista Previa
-icon.next.track: Pista Siguiente
-icon.play.pause: Play Pause
+icon.fn.wheel: Volant de jocs
+icon.prev.track: Pista anterior
+icon.next.track: Pista Següent
+icon.play.pause: Reproduir / Pausar
 # The active layout read from keyboard
 intl.layout.current: Actual
 # default keyboard layouts
