@@ -101,28 +101,28 @@ home.open_device_failed: No s'ha pogut iniciar el seu dispositiu
 
 # Main Window, General
 kbd.general: General
-kbd.general.info: Información
-kbd.general.info.device_model: Modelo de Dispositivo
-kbd.general.info.serial_number: Número de Serie
-kbd.general.info.battery: Batería
-kbd.general.info.running_time: Tiempo de uso
-kbd.general.setting: Ajustes
-kbd.general.setting.layout: Distribución
+kbd.general.info: Informació
+kbd.general.info.device_model: Model del dispositiu
+kbd.general.info.serial_number: Número de sèrie
+kbd.general.info.battery: Bateria
+kbd.general.info.running_time: Temps d'ús
+kbd.general.setting: Paràmetres
+kbd.general.setting.layout: Disposició
 kbd.general.setting.tap_layout: Tap
-kbd.general.setting.magic_fn: Magic Fn
+kbd.general.setting.magic_fn: Màgic Fn
 kbd.general.setting.macro_trigger: Macro
-kbd.general.setting.capslock_led: Bloq Mayús Led
-kbd.general.setting.auto_sleep: Reposo Automático
-kbd.general.setting.options.disable: Deshabilitar
+kbd.general.setting.capslock_led: Led de la tecla de fixació de majúscules
+kbd.general.setting.auto_sleep: Repós automàtic
+kbd.general.setting.options.disable: Inhabilitar
 kbd.general.setting.options.enable: Habilitar
-kbd.general.setting.options.default: Por Defecto
-kbd.general.setting.options.custom: Personalizada
+kbd.general.setting.options.default: Per defecte
+kbd.general.setting.options.custom: Personalitzada
 kbd.general.setting.options.fn1: Fn1
 kbd.general.setting.options.fn2: Fn2
-kbd.general.setting.options.capslock_all: Todas
+kbd.general.setting.options.capslock_all: Totes
 kbd.general.bluetooth: Bluetooth
-kbd.general.bluetooth.bind: Conexiones Bluetooth
-kbd.general.bluetooth.clean_bind: Eliminar Enlaces
+kbd.general.bluetooth.bind: Vinculació Bluetooth
+kbd.general.bluetooth.clean_bind: Esborrar vincles
 
 # Main Window, Firmware
 kbd.firmware: Actualización de Firmware
