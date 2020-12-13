@@ -1,40 +1,40 @@
 # Common
-common.operate.failed: No se Pudo Realizar la Operación
-common.operate.success: Operación Realizada Con Éxito
-common.tooltip_title: Mensaje
-common.input.placeholder: Por Favor introduzca Nombre
-common.rename: Renombrar
+common.operate.failed: L'operació ha fallat
+common.operate.success: Operació amb èxit
+common.tooltip_title: Missatge
+common.input.placeholder: Si us plau, introduexi un nom
+common.rename: Canviar de nom
 common.import: Importar
 common.export: Exportar
-common.add: Añadir
+common.add: Afegir
 common.create: Crear
-common.add.success: Añadido Con Éxito
-common.add.failed: No Se Pudo Añadir
-common.delete: Eliminar
-common.delete.success: Eliminado Con Éxito
-common.delete.failed: No se pudo Eliminar
+common.add.success: Afegit amb èxit
+common.add.failed: No s'ha pogut afegir
+common.delete: Esborrar
+common.delete.success: Esborrat amb èxit
+common.delete.failed: No s'ha pogut eliminar
 common.copy: Copiar
-common.copy.success: Copiado Con Éxito
+common.copy.success: S'ha copiat amb èxit
 common.copy_text: Copiar
-common.paste: Pegar
+common.paste: Enganxar
 common.reset: Reiniciar
 common.clone: Clonar
-common.cancel: Cancelar
-common.ok: Ok
-common.save: Guardar
-common.save_as: Guardar Como
-common.save.success: Guardado Con Éxito
+common.cancel: Cancel·lar
+common.ok: D'acord
+common.save: Desar
+common.save_as: Desar com
+common.save.success: Desat amb èxit
 common.apply: Aplicar
-common.apply.success: Aplicado Con Éxito
-common.apply.failed: No se pudo Aplicar
-common.confirm.show_detail: Mostrar Detalle
-common.network.connection.error: Error En Conexión De Red
-common.please_quit_edit: Por favor Salga Del Modo Edición
-common.time_unit.hours: " Horas"
-common.time_unit.millisecond: Milisegundos
-common.return: Regresar
-common.refresh: Refrescar
-common.date: Fecha
+common.apply.success: Aplicat amb èxit
+common.apply.failed: No s'ha pogut aplicar
+common.confirm.show_detail: Mostrar el detall
+common.network.connection.error: Error en la connexió de la xarxa
+common.please_quit_edit: Si us plau, sorti del mode d'edició
+common.time_unit.hours: " Hores"
+common.time_unit.millisecond: Milisegons
+common.return: Tornar
+common.refresh: Actualitzar
+common.date: Data
 
 # Tray
 app.tray.show_window: Abrir ObinsKit
